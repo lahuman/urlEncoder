@@ -1,5 +1,5 @@
 {
-  "name": "urlencoder",
+  "name": "lahuman-urlencoder",
   "version": "1.0.0",
   "description": "url encoding module",
   "main": "index.js",
