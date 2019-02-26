@@ -1,0 +1,23 @@
+{
+  "name": "urlencoder",
+  "version": "1.0.0",
+  "description": "url encoding module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "encode"
+  ],
+  "author": "lahuman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahuman/urlEncoder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lahuman/urlEncoder/issues"
+  },
+  "homepage": "https://github.com/lahuman/urlEncoder#readme"
+}
